@@ -22,6 +22,7 @@ You should call the bash file 'gitsetup.sh' (I have added this filename to the .
 The bash file should include the following text: 
 
 git config --global user.email "your email adress goes here"
+
 git config --global user.name "your github user name goes here"
 
 Everytime you open a run in Ucloud, you can the run the bash file in the terminal like so: 
