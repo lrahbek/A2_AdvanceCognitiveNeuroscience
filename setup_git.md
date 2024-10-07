@@ -26,7 +26,7 @@ git config --global user.name "your github user name goes here"
 
 Everytime you open a run in Ucloud, you can the run the bash file in the terminal like so: 
 
-bash```
+```
 $ bash gitsetup.sh
 ```
 
