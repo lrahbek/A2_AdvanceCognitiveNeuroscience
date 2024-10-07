@@ -11,5 +11,6 @@ OBS: data used should not be pushed to the repository as it is sensitive.
 |------|-----------|
 |scr   | The scripts used in the analysis|
 |out   | Outputs and plots produced in the scripts|
+|in    | Data used in the scripts (empty)|
 
 
