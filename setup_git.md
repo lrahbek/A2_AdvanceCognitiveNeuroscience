@@ -1,6 +1,6 @@
 # How to set up and use GitHub in uCloud :)
 
-I dont know how comfortable we all are in git, so I have made a very clear (I hope) step-by-step guide, to set it up. If anything is confusing, let me know:))
+I dont know how comfortable we all are in git, so I have made a very clear (I hope) step-by-step guide, to set it up. If anything is confusing, let me know:)) Also: I am sure that there might be more 'efficient' ways of pushing and pulling across forsk directly from the terminal, but I thought this would be the easiest way to do it and avoid conflicts when none of us are totally comfortable in GitHub:)). 
 
 ## Forking and Cloning the Repository 
 
